@@ -1,7 +1,7 @@
 // Data dummy untuk simulasi
 const VALID_CREDENTIALS = {
-    username: 'ivas_user',
-    password: 'ivas123'
+    username: 'accurate.porcupine.awvk@rapidletter.net',
+    password: 'pepek4321'
 };
 
 // State management
